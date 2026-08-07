@@ -1,1 +1,1 @@
-npx wrangler pages dev site
+npx wrangler deploy
